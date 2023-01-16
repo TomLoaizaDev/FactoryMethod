@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{36EF7342-B92D-4F53-94A1-82FEE158194C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.domain", "FactoryMethod.domain\FactoryMethod.domain.csproj", "{ACB35F75-5161-4CDA-8828-20BB8EA7D2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EF7342-B92D-4F53-94A1-82FEE158194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EF7342-B92D-4F53-94A1-82FEE158194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EF7342-B92D-4F53-94A1-82FEE158194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EF7342-B92D-4F53-94A1-82FEE158194C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB35F75-5161-4CDA-8828-20BB8EA7D2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB35F75-5161-4CDA-8828-20BB8EA7D2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB35F75-5161-4CDA-8828-20BB8EA7D2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB35F75-5161-4CDA-8828-20BB8EA7D2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BA350F-9963-4C39-A098-423ECAA3C39A}
+	EndGlobalSection
+EndGlobal
